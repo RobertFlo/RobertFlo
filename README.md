@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SOC Home Lab</b> - In-progress
+- [SOC Home Lab](https://github.com/RobertFlo/SOCHomeLab) - In-progress
 
 <h2>📄 IT Certifications</h2>
 
